@@ -1,4 +1,13 @@
+## Ekran Görüntüleri
+
+![Ekran Görüntüsü 1](screenshots/ss1.png)
+![Ekran Görüntüsü 2](screenshots/ss2.png)
+![Ekran Görüntüsü 3](screenshots/ss3.png)
+![Ekran Görüntüsü 4](screenshots/ss4.png)
+![Ekran Görüntüsü 5](screenshots/ss5.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
 
