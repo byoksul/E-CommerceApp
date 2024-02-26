@@ -1,5 +1,8 @@
 ## Ekran Görüntüleri
 
+<img src="screenshots/ss1.png" alt="Ekran Görüntüsü 2" width="400"/>
+
+
 ![Ekran Görüntüsü 1](screenshots/ss1.png)
 ![Ekran Görüntüsü 2](screenshots/ss2.png)
 ![Ekran Görüntüsü 3](screenshots/ss3.png)
